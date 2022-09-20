@@ -20,6 +20,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Overview
 
+I attempted this challege using using HTML5 and CSS3, with no frameworks and libraries
+
 ### The challenge
 
 Users should be able to:
@@ -27,6 +29,7 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
+![Screenshot 2022-09-20 at 9 22 13 AM](https://user-images.githubusercontent.com/107595104/191146845-21ea6864-b61d-4b8f-982a-f4d990f2c0c8.png)
 
 ![](./screenshot.jpg)
 
@@ -89,8 +92,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Box Shadow](https://getcssscan.com/css-box-shadow-examples) - This helped me figure out which box-shadow values to use since I only have the jpgs as reference. 
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
