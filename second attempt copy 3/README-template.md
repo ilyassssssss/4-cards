@@ -86,7 +86,6 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Author
 
-- Website - [Ilyas Shalihin](https://www.your-site.com)
 - Frontend Mentor - [@potatowaffles](https://www.frontendmentor.io/profile/ilyassssssss)
 
 
