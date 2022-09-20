@@ -104,4 +104,3 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 READ the README.md and style-guide.md or you'll fail on your first attempt like me
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
