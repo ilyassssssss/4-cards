@@ -30,6 +30,7 @@ Users should be able to:
 
 ### Screenshot
 ![Screenshot 2022-09-20 at 9 22 13 AM](https://user-images.githubusercontent.com/107595104/191146845-21ea6864-b61d-4b8f-982a-f4d990f2c0c8.png)
+![Screenshot 2022-09-20 at 9 23 33 AM](https://user-images.githubusercontent.com/107595104/191147463-e515392f-4b45-44ea-b3d7-2c99170e7aa7.png)
 
 ![](./screenshot.jpg)
 
