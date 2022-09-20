@@ -79,4 +79,3 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 ## Acknowledgments
 
 READ the README.md and style-guide.md or you'll fail on your first attempt like me
-
